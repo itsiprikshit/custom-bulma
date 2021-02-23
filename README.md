@@ -12,5 +12,5 @@ Customize bulma while adding a namespace to the classes
 * You can change the file name and directories from the `package.json` file
 
 ## Namespacing build
-To namespace bulma open `index.js` and change the path of the indput and output files if required
+To namespace bulma open `index.js` and change the path of the input and output files if required <br/>
 Run `node index` to build your namespaced bulma
