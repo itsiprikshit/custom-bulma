@@ -13,6 +13,7 @@ Customize bulma while adding a namespace to the classes
 
 ## Namespacing build
 Uses [postcss-prefixer](https://github.com/marceloucker/postcss-prefixer#readme) to namespace bulma <br/>
-To namespace bulma open `index.js` and change the path of the input and output files if required <br/>
-To build your namespaced bulma, run the following command in the root directory
-Run `node index`
+To namespace bulma open `index.js` and change the path of the input and output files (if required) <br/>
+You can also change the prefix value in this file, currently it is set to `bu-` <br/>
+To build your namespaced bulma, run the following command in the root directory <br />
+Run `node index` from root
